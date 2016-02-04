@@ -1,0 +1,6 @@
+The mv shell command is used for moving files or directories from the command line.
+
+In simple forms, it uses the structure:
+mv [filepath] [destinationpath]
+
+Appropriate read/write access is required to move files.
