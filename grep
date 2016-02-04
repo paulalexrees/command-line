@@ -1,0 +1,5 @@
+The grep command searches a file a returns the lines containing the pattern given in the grep's argument.
+Basic structure example:
+grep [search term] [file]
+
+grep "elf" lordoftherings.txt
