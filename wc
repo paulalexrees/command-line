@@ -1,0 +1,7 @@
+This is the shell command for a word count of a given file.
+
+wc [file] will return the number of lines, word and characters in a file.
+wc -l returns the number of lines.
+wc -w returns the number of words.
+wc -m returns the number of characters.
+wc -c returns the number of bytes.
